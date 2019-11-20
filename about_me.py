@@ -1,0 +1,5 @@
+print("Griffin Georgiadis")
+print("I am a triplet")
+print("I have a dog")
+print("I love to snowboard")
+print("I am a computer science major")
